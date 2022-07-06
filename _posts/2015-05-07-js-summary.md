@@ -2,7 +2,7 @@
 layout: post
 title: Javascript 总结
 date: 2022-07-06
-categories: 2022
+categories: Y2022
 tags:
   - Javascript
 published: true
