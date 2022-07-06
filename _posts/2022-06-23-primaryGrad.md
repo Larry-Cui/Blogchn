@@ -8,6 +8,8 @@ tags:
 published: true
 ---
 
+<img style="display: inline-block; width: 100%; object-fit: cover" src="https://lh3.googleusercontent.com/JJbKENDj4AsGLISu0cemLu3GMFD6nqEDaJJiSlv1zc1Q_ah-ysm8jYKmF7wcbB8siROxtrL3pp6hGpwddzH-xo-A2IDqvoN5FH4dVsUwfFt4rFScWAjWm-CWPzi0QsmlqTvGHPFikw=w2400" alt="CAIS"/>
+
 二年级下半年从内地转来 CAIS，眨眼 4 年半过去，今夏迎来了小学毕业季。
 
 <!-- excerpt -->
