@@ -3,8 +3,8 @@ layout: post
 title: Javascript 总结
 tags:
   - Javascript
-  - Front-end
-categories: front-end
+  - front-end
+categories:
 published: true
 ---
 
