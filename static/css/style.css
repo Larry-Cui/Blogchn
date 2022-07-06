@@ -203,6 +203,10 @@ a:active {
 	padding: 10px 30px;
 }
 
+img {
+	object-fit: cover;
+}
+
 @media screen and (max-width: 767px) {
 	.sheet {
 		padding-left: 10px;
