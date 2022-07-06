@@ -10,6 +10,8 @@ published: true
 
 <img style="display: inline-block; width: 100%; object-fit: cover" src="https://lh3.googleusercontent.com/iBTbUcTVaN_J2ITiQfH5NMra_Y79lrIwCzZbaB9DM5XQCOP0_P-gsU2mBDbMNuhE8VoyZrUL6sa5Gb6KUmtPgHCiAbVF4z-QJ3bx1YNr0jXfJtuWz_MXh8EtL3NrZ7qZNYIYO2mUxw=w2400" alt="RAZ-kids"/>
 
+<br>
+
 ["Reading A-Z for Kids"](https://www.raz-kids.com/) 是套非常优秀的英语阅读教材。我随着监督孩子学习，自己也涨了不少见识，这里就通过 S 级的第一本书，介绍一下英文名字的由来。
 
 为节省时间，文章就不翻译了，直接上英文，反正能读到这篇文章的小伙伴们，这点英文不成问题。当然，我做了点删减。
