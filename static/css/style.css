@@ -188,7 +188,7 @@ a:active {
 }
 
 .sheet {
-	word-break: keep-all;
+	word-break: normal;
 	color: #333333;
 	background-color: #fffff0;
 	/* #f8f8fd; */
@@ -260,7 +260,7 @@ img {
 
 .word-keep {
 	display: inline-block;
-	word-break: keep-all;
+	word-break: normal;
 }
 
 .rectangle {

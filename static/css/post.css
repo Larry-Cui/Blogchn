@@ -144,7 +144,7 @@
 
 .content-navigation .content-navigation-list ul li {
 	line-height: 25px;
-	word-break: keep-all;
+	word-break: normal;
 }
 
 .boundary {
