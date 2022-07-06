@@ -189,8 +189,8 @@ a:active {
 
 .sheet {
 	word-break: break-all;
-	color: #333333
-	background-color: #FFFFF0
+	color: #333333;
+	background-color: #fffff0;
 	/* #f8f8fd; */
 	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4),
 		0 0 30px rgba(10, 10, 0, 0.1) inset;
