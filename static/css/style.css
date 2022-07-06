@@ -188,7 +188,7 @@ a:active {
 }
 
 .sheet {
-	word-break: break-all;
+	word-break: keep-all;
 	color: #333333;
 	background-color: #fffff0;
 	/* #f8f8fd; */
