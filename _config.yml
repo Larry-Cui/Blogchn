@@ -5,27 +5,21 @@ permalink: /:categories/:title/
 highlighter: rouge
 markdown: kramdown
 kramdown:
-  input:  GFM
+  input: GFM
   syntax_highlighter: rouge
-
 
 paginate: 10
 paginate_path: "page/:num"
 baseurl: ""
 
-
-
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: posts
     values:
       layout: post
-      styles : [highlight.css,post.css]
-      scripts : [post.js]
-
-
+      styles: [highlight.css, post.css]
+      scripts: [post.js]
 
 title: "bit-ranger"
 email: sincerebravefight@gmail.com
@@ -35,14 +29,12 @@ github:
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 comment:
-    repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+  repo: blog
+  client_id: a6fb73b3e790e234bab8
+  client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "https://bit-ranger.github.io/blog"
+url: "https://cheerful-blog.netlify.app/"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
-
-
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
 
