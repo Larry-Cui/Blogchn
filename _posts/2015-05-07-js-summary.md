@@ -8,7 +8,7 @@ published: true
 
 超级长图，小心流量。
 
-这是 inline formula 测试：$\int_0^\infty x^2 \, dx$
+这是 inline formula 测试：$\displaystyle \int_0^\infty x^2 \, dx$
 \[
 a^2 + b^2= c^2
 \]
