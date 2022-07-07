@@ -30,14 +30,9 @@ layout: default
 							{{ post.title }}
 						</a>
 						<p>
-							<a
-								class="test"
-								href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"
-							>
-								{% if post.excerpt.size > 32 %}{{ post.excerpt }}{% else %}{{
-								post.content | strip_html | strip_newlines | truncate: 160 }}{%
-								endif %}
-							</a>
+							{% if post.excerpt.size > 32 %}{{ post.excerpt }}{% else %}{{
+							post.content | strip_html | strip_newlines | truncate: 160 }}{%
+							endif %}
 						</p>
 						<a
 							class="readmore"
