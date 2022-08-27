@@ -209,6 +209,12 @@ img {
 	object-fit: cover;
 }
 
+/* post side-column style */
+.content-navigation .shadow-bottom-center {
+	color: #333;
+	background-color: #fffff0;
+}
+
 @media screen and (max-width: 767px) {
 	.sheet {
 		padding-left: 10px;
