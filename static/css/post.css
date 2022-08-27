@@ -139,11 +139,13 @@
 	padding-right: 15px;
 }
 .content-navigation .content-navigation-list {
+	margin: 10px 0;
 	padding: 10px 0;
 }
 
 .content-navigation .content-navigation-list ul {
-	margin-left: 5px;
+	margin: 0;
+	padding: 0;
 }
 
 .content-navigation .content-navigation-list ul li {
