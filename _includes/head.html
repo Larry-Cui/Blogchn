@@ -49,12 +49,6 @@
 		href="https://cdn.bootcss.com/octicons/3.5.0/octicons.min.css"
 	/> -->
 
-  <!-- This is the style sheet for color box in posts. -->
-  <link
-    rel="stylesheet"
-    href="https://drive.google.com/file/d/1YohV6hIlQh-YT6u38mHqJfTvy1kcw5dM/view?usp=share_link"
-  />
-
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.5.0/octicons.min.css"
@@ -79,6 +73,12 @@
     href="{{ '/static/css/' | append: style | prepend: site.baseurl | prepend: site.url}}"
   />
   {%endfor%}
+
+  <!-- This is the style sheet for color box in posts. -->
+  <link
+    rel="stylesheet"
+    href="{{ '/static/css/style_custom.css' | prepend: site.baseurl | prepend: site.url}}"
+  />
 
   <!-- insert mathjax  -->
   <script type="text/x-mathjax-config">
