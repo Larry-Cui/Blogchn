@@ -2,6 +2,71 @@
 layout: null
 ---
 
+/* customized css content  */
+
+.note-yellow {
+  background-color: #f5ff90;
+  color: #7f5539;
+  border-left: solid #ff9f1c 4px;
+  border-radius: 0px;
+  padding: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.note-red {
+  background-color: #fae0e4;
+  color: #800f2f;
+  border-left: solid #ff5c8a 4px;
+  border-radius: 0px;
+  padding: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.note-blue {
+  background-color: #caf0f8;
+  color: #03045e;
+  border-left: solid #0077b6 4px;
+  border-radius: 0px;
+  padding: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.note-pink {
+  background-color: #e9d8fd;
+  color: #69337a;
+  border-left: solid #805ad5 4px;
+  border-radius: 0px;
+  padding: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.note-green {
+  background-color: #b7e4c7;
+  color: #081c15;
+  border-left: solid #40916c 4px;
+  border-radius: 0px;
+  padding: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.title {
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content {
+  margin-left: 0.5em;
+}
+
+/* official css */
+
 .navbar-tiffany,
 .banner {
   background: -webkit-linear-gradient(
