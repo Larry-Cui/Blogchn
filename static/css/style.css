@@ -54,14 +54,14 @@ layout: null
   padding-bottom: 1em;
 }
 
-.title {
+.notetitle {
   margin-top: 0.5em;
   margin-left: 0.5em;
   text-align: left;
   font-weight: bold;
 }
 
-.content {
+.notecontent {
   margin-left: 0.5em;
 }
 
